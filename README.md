@@ -1,2 +1,2 @@
 # Amazon_CSS-Clone
-amazon basic clone
+<h2>Amazon Basic clone website</h2>
